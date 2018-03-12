@@ -1,4 +1,8 @@
 ### Application.bash - 2018 - BEUCHER Vincent -IIA ###
-echo "version 1.2"
+echo "version 2"
 echo "Copyright Company - 201x"
-echo "Build : 10:00"
+echo "Build : 11:00"
+build_hour="11H00"
+
+echo "Build ${build_hour}"
+echo "version ${version}"
