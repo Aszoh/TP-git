@@ -1,0 +1,53 @@
+commit f3e51256baa79cbd92a8a650e7c5a96e3039290e
+Author: Vincent Beucher <vincent.beucher@ets-conty.fr>
+Date:   Mon Mar 12 13:50:50 2018 +0100
+
+    display copyright
+
+commit 52c3f81702d6df055aa14545808372adf0f80e97
+Author: Vincent Beucher <vincent.beucher@ets-conty.fr>
+Date:   Mon Mar 12 13:45:04 2018 +0100
+
+    Add file header
+
+commit b771d1071774f09880a7104243aeff61015f438b
+Author: Vincent Beucher <vincent.beucher@ets-conty.fr>
+Date:   Mon Mar 12 13:38:26 2018 +0100
+
+    Add build time
+
+commit 38fe2deaa00bddd082dd770ee04884a35c4ee12b
+Author: Vincent Beucher <vincent.beucher@ets-conty.fr>
+Date:   Mon Mar 12 12:28:05 2018 +0100
+
+    Initial commit
+
+commit d80d40afa5470ba7667883fdf69362a8437f1da9
+Author: Vincent Beucher <vincent.beucher@ets-conty.fr>
+Date:   Mon Mar 12 12:17:45 2018 +0100
+
+    DépotDeVersionning
+
+commit 47044286a4b990f3549639779f2917a4b1f8f6ec
+Author: Vincent Beucher <vincent.beucher@ets-conty.fr>
+Date:   Mon Mar 12 12:11:52 2018 +0100
+
+    Readme+Licence+ApplicationCommit
+
+commit 8ff8e7bfc2599f0c8d74476ba95b48855cc88523
+Author: Vincent Beucher <vincent.beucher@ets-conty.fr>
+Date:   Mon Mar 12 12:03:28 2018 +0100
+
+    LicenceCommit
+
+commit b839c0c95a44f5c4aee330c046cb7050dde2f0b4
+Author: Vincent Beucher <vincent.beucher@ets-conty.fr>
+Date:   Mon Mar 12 11:48:09 2018 +0100
+
+    Initial commit
+
+commit a74fa0c83d03489c114b7b838fa691a82ef51b7b
+Author: Vincent Beucher <vincent.beucher@ets-conty.fr>
+Date:   Mon Mar 12 11:47:23 2018 +0100
+
+    Initial commit
